@@ -1,67 +1,9 @@
-# README Best Practice
+# README Practice
 >Practice for our README.md file.
 
 One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
 
-One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
 
-One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
-
-One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
-
-One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
-
-One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
-
-One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
-
-One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
-
-One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
-
-One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
-
-One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
-
-One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
-
-One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
-
-One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
-
-One of the most important things in our open-source project is the `README.md` file.
-# README Best Practice
->Practice for our README.md file.
-
-One of the most important things in our open-source project is the `README.md` file.
 
 
 ## Requirements
